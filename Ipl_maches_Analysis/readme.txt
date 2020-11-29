@@ -1,1 +1,1 @@
-
+This ML project is the Exploratory Data Analysis on a dataset of the Indian Premier League. As sports analysts, we aim to find out the most successful teams, players, and factors contributing win or loss of a team and Suggest teams or players a company should endorse for its products.
